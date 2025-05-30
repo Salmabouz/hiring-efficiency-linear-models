@@ -1,0 +1,65 @@
+Sl. No;Fiscal Year;Quarter;Department;Job Open Date;Hire Date;Job Title;Source of Hire;Type of Hire;PerformanceScore;Sex;Yearly PayScale (Yen);Cost of Hire;Time to Hire (Days);Quality of Hire;Engagement;Ramp Up Time;Culture Fit (%)
+1;2018;1;Production;04/01/2018;03/02/2018;Production Technician I;Job Boards;External;Fully Meets;F;744000;2625;30;41;45;95;47
+2;2018;1;Production;05/01/2018;02/02/2018;Production Technician I;Agency;External;Fully Meets;F;744000;89280;28;41;82;95;47
+3;2018;1;Production;04/02/2018;05/04/2018;Production Technician I;LinkedIn;External;Exceeds;F;660000;4000;60;41;26;85;48
+4;2018;1;IT;04/02/2018;03/03/2018;Software Engineer;Agency;External;Fully Meets;F;960000;115200;27;41;28;85;48
+5;2018;1;Production;04/02/2018;04/03/2018;Production Technician I;Career Portal;External;Fully Meets;M ;660000;10000;28;41;34;93;51
+6;2018;1;Production;04/02/2018;02/04/2018;Production Technician I;LinkedIn;External;Fully Meets;M ;589200;4000;57;41;81;93;51
+7;2018;1;Marketing;05/02/2018;08/03/2018;Marketing Analyst;Employee Referral;Internal;Fully Meets;F;582000;10000;31;47;90;89;53
+8;2018;1;Production;06/02/2018;01/03/2018;Production Technician I;Employee Referral;Internal;Fully Meets;F;564000;10000;23;47;91;90;53
+9;2018;1;Production;09/02/2018;09/03/2018;Production Technician I;LinkedIn;External;Needs Improvement;M ;540000;4000;28;55;33;31;95
+10;2018;1;Production;10/02/2018;01/04/2018;Production Manager;Job Boards;External;Exceeds;M ;540000;2625;50;55;26;31;95
+11;2018;1;IT;10/02/2018;02/04/2018;Sr. Network Engineer;Agency;External;Fully Meets;M ;840000;100800;51;66;41;24;95
+12;2018;2;Marketing;01/04/2018;02/05/2018;Marketing Analyst;Employee Referral;Internal;Fully Meets;F;492000;10000;31;66;75;24;94
+13;2018;2;IT;04/04/2018;05/05/2018;Sr. Network Engineer;LinkedIn;External;Fully Meets;F;768000;4000;31;70;96;26;95
+14;2018;2;Marketing;04/04/2018;04/05/2018;Marketing Analyst;Employee Referral;Internal;Fully Meets;F;516000;10000;30;70;36;26;95
+15;2018;2;IT;04/04/2018;01/05/2018;IT Manager - Support;Job Boards;External;Exceeds;M ;624000;2625;27;71;80;30;95
+16;2018;2;Production;04/04/2018;07/05/2018;Production Technician I;Employee Referral;Internal;Fully Meets;F;516000;10000;33;71;90;30;95
+17;2018;2;Production;01/05/2018;02/06/2018;Production Technician I;Employee Referral;Internal;Needs Improvement;M ;513000;10000;32;85;61;89;86
+18;2018;2;IT;01/05/2018;11/06/2018;Software Engineer;Job Boards;External;Needs Improvement;F;780000;2625;41;85;28;89;86
+19;2018;2;Production;01/05/2018;02/06/2018;Production Technician I;Employee Referral;Internal;Fully Meets;F;506400;10000;32;85;94;95;87
+20;2018;2;Production;01/05/2018;02/06/2018;Production Technician I;Job Boards;External;PIP;M ;504000;2625;32;85;75;95;87
+21;2018;2;Sales;07/05/2018;03/06/2018;Sr. Sales Engineer;Career Portal;External;Fully Meets;F;384000;10000;27;85;32;88;84
+22;2018;2;IT;07/05/2018;07/06/2018;IT Manager - Support;LinkedIn;External;Fully Meets;F;372000;4000;31;85;35;88;84
+23;2018;2;Marketing;07/05/2018;02/06/2018;Marketing Analyst;LinkedIn;External;Fully Meets;F;481200;4000;26;85;83;73;85
+24;2018;2;Production;07/05/2018;01/06/2018;Production Manager;Employee Referral;Internal;Fully Meets;M ;480000;10000;25;85;65;75;87
+25;2018;2;Sales;07/05/2018;03/06/2018;Sr. Sales Engineer;Agency;External;Fully Meets;M ;780000;93600;27;85;71;73;85
+26;2018;2;Marketing;01/06/2018;01/07/2018;Marketing Analyst;LinkedIn;External;Fully Meets;M ;474600;4000;30;85;77;75;87
+27;2018;3;Production;01/07/2018;01/08/2018;Production Technician I;Job Boards;External;Fully Meets;F;468000;2625;31;85;94;91;85
+28;2018;3;IT;01/07/2018;02/09/2018;Sr. Network Engineer;Job Boards;External;Fully Meets;F;696000;2625;63;85;65;91;85
+29;2018;3;Marketing;02/07/2018;03/08/2018;Marketing Analyst;LinkedIn;External;Exceeds;F;444000;4000;32;85;45;90;87
+30;2018;3;Production;03/07/2018;02/08/2018;Production Technician I;Job Boards;External;Fully Meets;F;426000;2625;30;85;43;90;87
+31;2018;3;IT;07/07/2018;01/09/2018;Sr. Network Engineer;Agency;External;Fully Meets;M ;756000;90720;56;85;82;83;82
+32;2018;3;Production;11/07/2018;02/08/2018;Production Technician I;LinkedIn;External;Fully Meets;M ;419400;4000;22;85;36;105;82
+33;2018;3;IT;11/07/2018;02/09/2018;Software Engineer;Agency;External;Fully Meets;F;828000;99360;53;85;71;105;82
+34;2018;3;Production;11/07/2018;01/08/2018;Production Technician I;Job Boards;External;PIP;F;419400;2625;21;85;39;83;82
+35;2018;3;Marketing;07/08/2018;01/09/2018;Marketing Analyst;LinkedIn;External;Fully Meets;F;408000;4000;25;86;29;81;84
+36;2018;3;Production;07/08/2018;06/09/2018;Production Technician I;Career Portal;External;Exceeds;F;376800;10000;30;86;36;81;84
+37;2018;3;Marketing;07/08/2018;01/10/2018;Marketing Analyst;LinkedIn;External;Fully Meets;F;376800;4000;55;87;48;75;85
+38;2018;3;Production;07/08/2018;02/09/2018;Production Technician I;Career Portal;External;Fully Meets;F;362400;10000;26;87;35;75;85
+39;2018;3;Marketing;01/09/2018;01/10/2018;Marketing Analyst;LinkedIn;External;Fully Meets;M ;348000;4000;30;88;51;92;86
+40;2018;3;Production;01/09/2018;05/10/2018;Production Technician I;Employee Referral;Internal;Fully Meets;M ;347880;10000;34;88;43;92;86
+41;2018;3;Production;01/09/2018;02/10/2018;Production Technician I;LinkedIn;External;Fully Meets;F;342000;4000;31;88;40;90;85
+42;2018;3;Production;01/09/2018;01/10/2018;Production Technician I;Employee Referral;Internal;Fully Meets;F;336000;10000;30;88;32;90;85
+43;2018;3;Production;01/09/2018;01/10/2018;Production Technician I;Employee Referral;Internal;Needs Improvement;M ;329880;10000;30;88;26;59;85
+44;2018;3;Marketing;01/09/2018;06/10/2018;Marketing Analyst;Job Boards;External;Needs Improvement;F;324000;2625;35;88;27;59;85
+45;2018;3;IT;07/09/2018;02/10/2018;Software Engineer;Employee Referral;Internal;Exceeds;F;504000;10000;25;88;39;100;87
+46;2018;3;Sales;01/10/2018;03/11/2018;Sr. Sales Engineer;Agency;External;Fully Meets;F;768000;92160;33;88;41;100;87
+47;2018;4;Production;01/10/2018;02/11/2018;Production Technician I;Employee Referral;Internal;Fully Meets;M ;312000;10000;32;89;57;75;85
+48;2018;4;IT;01/10/2018;04/11/2018;Software Engineer;Job Boards;External;Fully Meets;F;708000;2625;34;89;35;75;85
+49;2018;4;Marketing;01/10/2018;01/11/2018;Marketing Analyst;Job Boards;External;Fully Meets;M ;276000;2625;31;89;33;105;84
+50;2018;4;Production;01/10/2018;04/11/2018;Production Technician I;Job Boards;External;Fully Meets;M ;258000;2625;34;89;36;105;84
+51;2018;4;Production;01/10/2018;02/11/2018;Production Technician I;Job Boards;External;Needs Improvement;F;252000;2625;32;91;32;105;85
+52;2018;4;Production;01/10/2018;01/11/2018;Production Technician I;Employee Referral;Internal;Exceeds;M ;246000;10000;31;91;35;105;85
+53;2018;4;IT;01/10/2018;02/11/2018;Sr. Network Engineer;Agency;External;Fully Meets;F;1008000;120960;32;91;43;89;85
+54;2018;4;Production;06/10/2018;02/11/2018;Production Technician I;Employee Referral;Internal;Fully Meets;M ;198720;10000;27;91;39;89;85
+55;2018;4;IT;11/10/2018;01/12/2018;IT Manager - Support;Career Portal;External;Fully Meets;M ;696000;10000;51;91;41;83;87
+56;2018;4;Production;11/10/2018;01/12/2018;Production Technician I;Employee Referral;Internal;Fully Meets;M ;210000;10000;51;91;76;56;87
+57;2018;4;IT;11/10/2018;02/12/2018;IT Manager - Support;LinkedIn;External;Fully Meets;F;432000;4000;52;91;35;83;87
+58;2018;4;Production;11/10/2018;01/11/2018;Production Technician I;Employee Referral;Internal;Fully Meets;F;187200;10000;21;91;32;56;87
+59;2018;4;Production;11/10/2018;01/11/2018;Production Technician I;Job Boards;External;PIP;F;196800;2625;21;92;29;59;87
+60;2018;4;Sales;05/11/2018;01/02/2019;Sr. Sales Engineer;Job Boards;External;Exceeds;M ;756000;2625;88;92;46;59;87
+61;2018;4;Marketing;07/11/2018;02/01/2019;Marketing Analyst;LinkedIn;External;Fully Meets;F;265200;4000;56;92;46;56;85
+62;2018;4;Production;07/11/2018;05/01/2019;Production Technician I;Employee Referral;Internal;Fully Meets;F;213600;10000;59;92;35;56;85
+63;2018;4;Production;11/11/2018;01/12/2018;Production Technician I;Career Portal;External;Fully Meets;F;174000;10000;20;94;36;70;87
+64;2018;4;Production;05/12/2018;02/01/2019;Production Technician I;Career Portal;External;PIP;M ;168000;10000;28;94;32;71;87
