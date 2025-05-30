@@ -1,6 +1,4 @@
 # hiring-efficiency-linear-models
-This project aims to optimize the recruitment process by minimizing the cost and time of hiring while maximizing hire quality.
-
 
 🧠 Objectifs
 L’objectif principal de cette étude est de minimiser le temps et le coût d’embauche tout en maximisant la qualité du recrutement.
